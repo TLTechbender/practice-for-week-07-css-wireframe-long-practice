@@ -33,6 +33,11 @@ a button or a shadow effect to the nav bar.
 
 ![Example-2](https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Modular-Curriculum/content/css/css-project-practice-2.png)
 
+
+
+Mine looks funny lol
+
+
 [lorem]: https://loremipsum.io/
 
 [jsimage]: https://appacademy-open-assets.s3-us-west-1.amazonaws.com/Modular-Curriculum/content/css/css-project-practice1.png
